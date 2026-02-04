@@ -1,105 +1,171 @@
-<!-- BANNIÈRE / INTRO -->
-<h1 align="center">👋 Salut, moi c’est Guillaume Kingsley</h1>
+# 👨‍💻 Développeur Web Full-Stack
 
-<p align="center">
-  <b>Développeur Fullstack Web & Mobile</b><br/>
-  Next.js • Laravel • React Native • API REST
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://votre-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Fullstack+Developer;Next.js+%7C+Laravel;React+Native+%26+Expo;Build+Real+Products" />
-</p>
+&gt; 💡 *"Transformer les idées en expériences digitales exceptionnelles"*
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 À Propos de Moi
 
-Je suis un **développeur fullstack passionné**, orienté **produits concrets** et **solutions scalables**.  
-J’aime concevoir des applications **propres, performantes et maintenables**, du backend jusqu’au frontend.
+Développeur web passionné spécialisé dans la création d'applications modernes, performantes et centrées sur l'utilisateur. J'aime relever des défis techniques et transformer des concepts complexes en solutions élégantes.
 
-- 🔭 Je construis des plateformes web modernes avec **Next.js & Laravel**
-- 🌱 J’explore activement **React Native + Expo**
-- 🧠 Je travaille beaucoup avec **API REST, auth, middlewares, interceptors**
-- ⚙️ À l’aise avec **VPS, déploiement, Docker (base), Git**
-- 🎯 Objectif : transformer des idées en **produits fonctionnels et utiles**
+- 🔭 Actuellement en train de développer des applications web innovantes
+- 🌱 Toujours en apprentissage des dernières technologies front-end et back-end
+- 💬 Expertise en **Tailwind CSS**, **Alpine.js**, **PHP**, et **Design System**
+- ⚡ Fun fact : J'adore créer des expériences interactives qui surprennent les utilisateurs
 
 ---
 
 ## 🛠️ Stack Technique
 
-### 💻 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🧠 Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/API-REST-0A0A0A?style=for-the-badge)
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
-
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VPS](https://img.shields.io/badge/VPS-Hosting-4CAF50?style=for-the-badge)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-
----
-
-## 🚀 Projets Clés
-
-### 🔹 JwennJob
-> Plateforme d’emploi moderne
-
-🌐 https://front.jwennjob.com  
-🛠️ **Next.js · Laravel · API REST · Auth · Filters**  
-
-- Architecture frontend / backend séparée
-- API Laravel sécurisée
-- Gestion des utilisateurs & offres
-- Déploiement sur serveur VPS
+### Outils & Librairies
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+![Plyr](https://img.shields.io/badge/Plyr-00A4E4?style=for-the-badge&logo=plyr&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🔹 Aonerenovationpro
-> Site web professionnel + gestion & maintenance
+## 📂 Projets Réalisés
 
-🛠️ **Next.js · CMS · SEO**
+### 🎓 [CIAMakeup Academy](https://ciamakeup.com)
+**Plateforme E-Learning de Maquillage Professionnel**
 
-- Interface claire & performante
-- Optimisation SEO
-- Collaboration client & maintenance continue
+Une académie de maquillage en ligne haïtienne complète avec système de progression élève, vidéos interactives et certification.
 
----
+**Features clés :**
+- 📹 Lecteur vidéo personnalisé avec contrôle anti-skipping (Plyr.js)
+- 🎯 Système de quiz et devoirs avec progression verrouillée
+- 📊 Dashboard avec taux de complétion en temps réel
+- 🎨 Design moderne et responsive
 
-## 🧩 Ce que j’aime résoudre
-
-- Authentification & sécurité (tokens, cookies, middlewares)
-- Interceptors Axios & gestion des erreurs
-- Structuration propre des projets Next.js
-- Intégration API backend Laravel
-- Performance & UX
-- Déploiement d’apps sur VPS (pas juste en local 😉)
+**Tech Stack :** `PHP` `Tailwind CSS` `Alpine.js` `MySQL` `Plyr.js`
 
 ---
 
-## 📊 GitHub Stats
+### 🏀 [Haitian Ballers](https://haitianballers.com)
+**Plateforme Sportive Communautaire**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+Site web mettant en valeur les talents du basketball haïtien avec galerie photos, actualités et contenu riche.
 
----
+**Features clés :**
+- 🖼️ Galerie photos interactive avec lazy loading
+- 🎯 Navigation transparente qui s'adapte au scroll
+- ⚡ Performance optimisée avec animations fluides
 
-## 📫 Me contacter
-
-- 💼 Portfolio : *(à venir ou ton lien)*
-- 📧 Email : *(ton email pro)*
-- 💬 Disponible pour collaboration, freelance & projets sérieux
+**Tech Stack :** `HTML5` `Tailwind CSS` `JavaScript` `Swiper.js`
 
 ---
 
-<p align="center">
-  <i>“Build things that actually work.”</i>
-</p>
+### 💳 [Système de Paiement MonCash](https://github.com/votre-repo/moncash)
+**Intégration de Paiement Mobile**
+
+Carte de paiement élégante pour intégration MonCash avec design premium et expérience utilisateur optimisée.
+
+**Features clés :**
+- 💎 Design de carte premium avec effets visuels
+- 🔒 Interface sécurisée et intuitive
+- 📱 Responsive sur tous les appareils
+
+**Tech Stack :** `Tailwind CSS` `Alpine.js` `HTML5`
+
+---
+
+### 💆 [JolieDore Aesthetic & Wellness Spa](https://joliedore.com)
+**Site Web pour Spa & Bien-être**
+
+Site institutionnel complet avec système SEO avancé et structure multi-pages optimisée.
+
+**Features clés :**
+- 🔍 SEO technique optimisé (méta-tags dynamiques, schema.org)
+- 📄 Architecture multi-pages (Home, About, Services, FAQ, Contact, Payments)
+- 🎨 Design épuré reflétant l'identité luxueuse du spa
+
+**Tech Stack :** `PHP` `Tailwind CSS` `SEO Techniques`
+
+---
+
+### 💬 [WhatsApp Channel Integration](https://github.com/votre-repo/whatsapp-integration)
+**Widget de Conversion WhatsApp**
+
+Bouton flottant WhatsApp avec carte d'invitation interactive pour augmentation du taux de conversion.
+
+**Features clés :**
+- 🎯 Bouton flottant avec animation d'attention
+- 💳 Carte d'invitation design "Mediterranean Escape"
+- 📱 Redirection intelligente vers le canal WhatsApp
+
+**Tech Stack :** `Alpine.js` `Tailwind CSS` `WhatsApp API`
+
+---
+
+### 📊 [Dashboard File Cards](https://github.com/votre-repo/dashboard-components)
+**Composants UI pour Dashboard**
+
+Système de cartes de fichiers modernes pour interfaces d'administration avec interactions riches.
+
+**Features clés :**
+- 📁 Gestion visuelle de fichiers
+- 🎨 Thème cohérent et professionnel
+- ⚡ Interactions rapides avec Alpine.js
+
+**Tech Stack :** `Tailwind CSS` `Alpine.js` `Component Design`
+
+---
+
+## 📊 Statistiques GitHub
+
+![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🎯 Compétences Clés
+
+| Domaine | Compétences |
+|---------|-------------|
+| **Frontend** | Responsive Design, Animations CSS, Interactions JavaScript |
+| **UI/UX** | Design Systems, Prototypage, Accessibilité (A11y) |
+| **Backend** | Architecture MVC, API REST, Sécurité web |
+| **Performance** | Optimisation temps de chargement, SEO technique |
+| **Outils** | Git, Figma, Méthodologies Agiles |
+
+---
+
+## 🌟 Ce qui me Distingue
+
+- 🎨 **Design-first** : Chaque projet commence par une réflexion UX poussée
+- ⚡ **Performance** : Optimisation constante pour des temps de chargement records
+- 🔧 **Clean Code** : Code maintenable, documenté et scalable
+- 🎯 **Orienté résultats** : Focus sur les objectifs business de mes clients
+- 🤝 **Collaboration** : Excellent communicateur, à l'aise en équipe ou en freelance
+
+---
+
+## 📬 Me Contacter
+
+Je suis toujours ouvert à discuter de nouveaux projets, d'opportunités de collaboration ou simplement échanger sur le développement web.
+
+- 📧 **Email** : [votre.email@example.com](mailto:votre.email@example.com)
+- 💼 **LinkedIn** : [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)
+- 🌐 **Portfolio** : [votre-portfolio.com](https://votre-portfolio.com)
+
+---
+
+⭐ *N'hésitez pas à explorer mes repositories et à star les projets qui vous intéressent !*
