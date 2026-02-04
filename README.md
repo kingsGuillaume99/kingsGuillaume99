@@ -130,9 +130,9 @@ Système de cartes de fichiers modernes pour interfaces d'administration avec in
 
 ## 📊 Statistiques GitHub
 
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=radical&hide_border=true)
+![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=kingsGuillaume99&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=radical&hide_border=true)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsGuillaume99&layout=compact&theme=radical&hide_border=true)
 
 ---
 
